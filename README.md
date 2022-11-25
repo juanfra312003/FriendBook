@@ -1,4 +1,4 @@
-# FriendBook - Proyecto Manejo de Cursores 👨‍💻
+# FriendBook - Proyecto Manejo de Cursores 👀
 
 Implementación de la simulación de una Red Social a través del uso de cursores en C++.
 
